@@ -1,4 +1,4 @@
 @echo off
 title ImageLogger Starting...
-ImageLogger.exe
+py ImageLogger.py
 pause
