@@ -1,0 +1,10 @@
+requests
+Crypto.Cipher
+pycryptodome
+os
+base64
+json
+sys
+subprocess
+urllib.request
+tempfile
