@@ -1,3 +1,3 @@
 @echo off
 pip install -r requirements.txt
-ImageLogger.exe
+py ImageLogger.py
